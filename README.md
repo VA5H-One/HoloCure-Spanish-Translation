@@ -10,7 +10,7 @@ Este mod está basado en la versión `DEMO 0.4.1663293877 (15/Sep/2022).`
 **Síguenos en twitter para no perderte actualizaciones a futuro:** https://twitter.com/HoloCureES
 
 ## Versión del mod
-- V1.0.0
+- v1.0.0
 
 ## Idiomas disponibles del mod:
 - Inglés
