@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/114462912/194444321-d164ba02-455a-449b
 Música utilizada: AdhesiveWombat - Night Shade
 
 # Instalación
-1. Descargar archivo el archivo comprimido.
+1. Descargar archivo el archivo.
 
 https://github.com/VA5H-One/HoloCure-Spanish-Translation/blob/main/data.win
 
@@ -40,7 +40,7 @@ https://github.com/VA5H-One/HoloCure-Spanish-Translation/blob/main/data.win
 **NOTA:** Para evitar problemas o restaurar a su versión original del juego, hacer un respaldo al archivo **_'data.win'_**; puede remplazar/añadir con un formato (.bkp).
 `Ej: data.bkp` ó `data.win.bkp`
 
-3. Extraer el archivo comprimido y colocar el mod dentro de la carpeta HoloCure.
+3. Colocar el mod dentro de la carpeta HoloCure.
 
 4. Abrir launcher de HoloCure ó ejecutar HoloCure.exe
 
