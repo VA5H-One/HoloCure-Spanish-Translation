@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/114462912/194444321-d164ba02-455a-449b
 Música utilizada: AdhesiveWombat - Night Shade
 
 # Instalación
-1. Descargar archivo el archivo.
+1. Descargar el archivo.
 
 https://github.com/VA5H-One/HoloCure-Spanish-Translation/blob/main/data.win
 
