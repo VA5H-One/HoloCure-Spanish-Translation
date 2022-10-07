@@ -1,7 +1,7 @@
 # HoloCure Traducción en Español
 ![logo](https://user-images.githubusercontent.com/114462912/194187902-3f244505-00e2-4fa9-a73a-b905f7f5d6eb.png)
 
-HoloCure Traducción en Español es un mod que reemplaza las descripciones, nombres de ítems/armas/ataques/habilidades, opciones e interfaz al idioma Español, ofreciendo una mejor experiencia de jugabilidad.
+HoloCure Traducción en Español es un mod realizado por fans que reemplaza las descripciones, nombres de ítems/armas/ataques/habilidades, opciones e interfaz al idioma Español, ofreciendo una mejor experiencia de jugabilidad.
 
 La versión modificada es `DEMO 0.4.1663293877 (15/Sep/2022)` - Actual
 
