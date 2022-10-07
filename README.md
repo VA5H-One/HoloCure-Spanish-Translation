@@ -30,7 +30,9 @@ https://user-images.githubusercontent.com/114462912/194444321-d164ba02-455a-449b
 Música utilizada: AdhesiveWombat - Night Shade
 
 # Instalación
-1. Descargar archivo comprimido.
+1. Descargar archivo el archivo comprimido.
+
+https://github.com/VA5H-One/HoloCure-Spanish-Translation/blob/main/data.win
 
 2. Ir a la carpeta de instalación de HoloCure:
 `Ej: C:\Archivos de Programa\HoloCure\HoloCureLauncher\HoloCure`
