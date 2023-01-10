@@ -7,7 +7,7 @@ La versión modificada es `DEMO 0.4.1663293877 (15/Sep/2022)` - Actual
 
 *Versiones futuras del juego serán actualizadas al Español.*
 
-**Síguenos en Twitter para no perderte cambios a futuro:** https://twitter.com/HoloCureES
+**Síguenos en Twitter para no perderte cambios a futuro:**  https://twitter.com/AkaiNijin
 
 ## Versión del mod
 - v1.0.2
@@ -53,6 +53,6 @@ https://github.com/VA5H-One/HoloCure-Spanish-Translation/blob/main/data.win
 - VA5H One
 - Weeblations
 - Seb Translations
-- Yeri7 #5977
+- Yeri7#5977
 
 **¡Gracias por descargar el mod!**
