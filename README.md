@@ -9,6 +9,8 @@ La versión modificada es `DEMO 0.4.1663293877 (15/Sep/2022)` - Actual
 
 **Síguenos en Twitter para no perderte cambios a futuro:**  https://twitter.com/AkaiNijin
 
+**Disponible ahora en Gumroad:** https://akainijin.gumroad.com/l/holocure-spanish-translation
+
 ## Versión del mod
 - v1.0.2
 
